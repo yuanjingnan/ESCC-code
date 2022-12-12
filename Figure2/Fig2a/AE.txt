@@ -1,0 +1,85 @@
+Events	Group	Values	Grade	actual_values	Grade_com
+Any	nCT_vs_nIT	80	G12	80	Grade 1-2
+Vomiting	nCT_vs_nIT	73.07692308	G12	73.84615385	Grade 1-2
+Granulocytopenia	nCT_vs_nIT	63.07692308	G12	68.46153846	Grade 1-2
+Anorexia	nCT_vs_nIT	62.30769231	G12	63.07692308	Grade 1-2
+Anemia	nCT_vs_nIT	37.69230769	G12	37.69230769	Grade 1-2
+Thrombocytopenia	nCT_vs_nIT	31.53846154	G12	31.53846154	Grade 1-2
+Liver dysfunction	nCT_vs_nIT	19.23076923	G12	19.23076923	Grade 1-2
+Fatigue	nCT_vs_nIT	15.38461538	G12	15.38461538	Grade 1-2
+Constipation	nCT_vs_nIT	10	G12	10	Grade 1-2
+Diarrhea	nCT_vs_nIT	6.153846154	G12	6.153846154	Grade 1-2
+Fever without infection	nCT_vs_nIT	3.076923077	G12	3.076923077	Grade 1-2
+Pneumonia	nCT_vs_nIT	2.307692308	G12	2.307692308	Grade 1-2
+Radiation esophagitis	nCT_vs_nIT	0	G12	0	Grade 1-2
+Esophageal perforation	nCT_vs_nIT	0	G12	0	Grade 1-2
+Any	nCT_vs_nIT	0	G34	0	Grade >3
+Vomiting	nCT_vs_nIT	0.769230769	G34	0.769230769	Grade >3
+Granulocytopenia	nCT_vs_nIT	5.384615385	G34	5.384615385	Grade >3
+Anorexia	nCT_vs_nIT	0.769230769	G34	0.769230769	Grade >3
+Anemia	nCT_vs_nIT	0	G34	0	Grade >3
+Thrombocytopenia	nCT_vs_nIT	0	G34	0	Grade >3
+Liver dysfunction	nCT_vs_nIT	0	G34	0	Grade >3
+Fatigue	nCT_vs_nIT	0	G34	0	Grade >3
+Constipation	nCT_vs_nIT	0	G34	0	Grade >3
+Diarrhea	nCT_vs_nIT	0	G34	0	Grade >3
+Fever without infection	nCT_vs_nIT	0	G34	0	Grade >3
+Pneumonia	nCT_vs_nIT	0	G34	0	Grade >3
+Radiation esophagitis	nCT_vs_nIT	0	G34	0	Grade >3
+Esophageal perforation	nCT_vs_nIT	0	G34	0	Grade >3
+Any	nCT_vs_nIT	80	nIT	80	Grade 1-2
+Vomiting	nCT_vs_nIT	8	nIT	8	Grade 1-2
+Granulocytopenia	nCT_vs_nIT	4	nIT	4	Grade 1-2
+Anorexia	nCT_vs_nIT	32	nIT	32	Grade 1-2
+Anemia	nCT_vs_nIT	4	nIT	4	Grade 1-2
+Thrombocytopenia	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Liver dysfunction	nCT_vs_nIT	4	nIT	4	Grade 1-2
+Fatigue	nCT_vs_nIT	16	nIT	16	Grade 1-2
+Constipation	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Diarrhea	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Fever without infection	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Pneumonia	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Radiation esophagitis	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Esophageal perforation	nCT_vs_nIT	0	nIT	0	Grade 1-2
+Any	nCRT_vs_nIT	80	G12	80	Grade 1-2
+Vomiting	nCRT_vs_nIT	69.46564885	G12	70.22900763	Grade 1-2
+Granulocytopenia	nCRT_vs_nIT	67.9389313	G12	75.57251908	Grade 1-2
+Anorexia	nCRT_vs_nIT	60.30534351	G12	61.06870229	Grade 1-2
+Anemia	nCRT_vs_nIT	39.69465649	G12	39.69465649	Grade 1-2
+Thrombocytopenia	nCRT_vs_nIT	32.82442748	G12	32.82442748	Grade 1-2
+Liver dysfunction	nCRT_vs_nIT	20.61068702	G12	21.3740458	Grade 1-2
+Fatigue	nCRT_vs_nIT	12.97709924	G12	12.97709924	Grade 1-2
+Constipation	nCRT_vs_nIT	9.160305344	G12	9.160305344	Grade 1-2
+Diarrhea	nCRT_vs_nIT	4.580152672	G12	4.580152672	Grade 1-2
+Fever without infection	nCRT_vs_nIT	4.580152672	G12	4.580152672	Grade 1-2
+Pneumonia	nCRT_vs_nIT	4.580152672	G12	6.870229008	Grade 1-2
+Radiation esophagitis	nCRT_vs_nIT	4.580152672	G12	4.580152672	Grade 1-2
+Esophageal perforation	nCRT_vs_nIT	0	G12	3.053435115	Grade 1-2
+Any	nCRT_vs_nIT	0	G34	0	Grade >3
+Vomiting	nCRT_vs_nIT	0.763358779	G34	0.763358779	Grade >3
+Granulocytopenia	nCRT_vs_nIT	7.633587786	G34	7.633587786	Grade >3
+Anorexia	nCRT_vs_nIT	0.763358779	G34	0.763358779	Grade >3
+Anemia	nCRT_vs_nIT	0	G34	0	Grade >3
+Thrombocytopenia	nCRT_vs_nIT	0	G34	0	Grade >3
+Liver dysfunction	nCRT_vs_nIT	0.763358779	G34	0.763358779	Grade >3
+Fatigue	nCRT_vs_nIT	0	G34	0	Grade >3
+Constipation	nCRT_vs_nIT	0	G34	0	Grade >3
+Diarrhea	nCRT_vs_nIT	0	G34	0	Grade >3
+Fever without infection	nCRT_vs_nIT	0	G34	0	Grade >3
+Pneumonia	nCRT_vs_nIT	2.290076336	G34	2.290076336	Grade >3
+Radiation esophagitis	nCRT_vs_nIT	0	G34	0	Grade >3
+Esophageal perforation	nCRT_vs_nIT	3.053435115	G34	3.053435115	Grade >3
+Any	nCRT_vs_nIT	80	nIT	80	Grade 1-2
+Vomiting	nCRT_vs_nIT	8	nIT	8	Grade 1-2
+Granulocytopenia	nCRT_vs_nIT	4	nIT	4	Grade 1-2
+Anorexia	nCRT_vs_nIT	32	nIT	32	Grade 1-2
+Anemia	nCRT_vs_nIT	4	nIT	4	Grade 1-2
+Thrombocytopenia	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Liver dysfunction	nCRT_vs_nIT	4	nIT	4	Grade 1-2
+Fatigue	nCRT_vs_nIT	16	nIT	16	Grade 1-2
+Constipation	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Diarrhea	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Fever without infection	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Pneumonia	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Radiation esophagitis	nCRT_vs_nIT	0	nIT	0	Grade 1-2
+Esophageal perforation	nCRT_vs_nIT	0	nIT	0	Grade 1-2
