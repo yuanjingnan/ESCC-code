@@ -1,0 +1,26 @@
+Sample,residual.percentage,response,MPR,sample
+P13,0,Well responders,MPR,P13
+P16,0,Well responders,MPR,P16
+P14,0.02,Well responders,MPR,P14
+P06,0.029,Well responders,MPR,P06
+P15,0.05,Well responders,MPR,P15
+P08,0.07,Well responders,MPR,P08
+P19,0.133,Well responders,non-MPR,P19
+P09,0.2,Well responders,non-MPR,P09
+P05,0.237,Well responders,non-MPR,P05
+P01,0.239,Well responders,non-MPR,P01
+P02,0.325,Well responders,non-MPR,P02
+P25,0.45,Poor responders,non-MPR,P25
+P23,0.52,Poor responders,non-MPR,P23
+P11,0.533,Poor responders,non-MPR,P11
+P10,0.57,Poor responders,non-MPR,P10
+P12,0.725,Poor responders,non-MPR,P12
+P07,0.743,Poor responders,non-MPR,P07
+P04,0.772,Poor responders,non-MPR,P04
+P21,0.789,Poor responders,non-MPR,P21
+P22,0.791,Poor responders,non-MPR,P22
+P03,0.814,Poor responders,non-MPR,P03
+P17,0.9,Poor responders,non-MPR,P17
+P20,0.9,Poor responders,non-MPR,P20
+P24,0.9,Poor responders,non-MPR,P24
+P18,0.9,Poor responders,non-MPR,P18
